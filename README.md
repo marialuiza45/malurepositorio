@@ -1,4 +1,8 @@
 # malurepositorio
-repositorio para aprendendo github
-<h1 aling="center"> Aprendendo gitub </h1>
-<p aling="justify"> Eu estou aprendendo muito sobre o github mas ainda tenho duvidas no pull request em como fazer e como usar o github em certos coisas ainda estou aprendendo onde ficam as opções para criar repositorios e readme, porém o curso que o professor fez está me ajudando muito a aprender como fazer e como usar o github
+Dizendo um pouco sobre mim 
+<h1 aling="center"> Quem sou eu?  </h1>
+<p aling="justify"> Eu sou a Maria Luiza estudante do curso de desenvolvimento de sistemas da Etec de Taboão da Serra, tenho 16 anos. </p>
+<h1 aling="center"> O que gostaria de aprender?  </h1>
+<p aling="justify"> Eu gostaria de aprender a programar e desenvolver sites e aplicativos, também gostaria de conhecer as linguagens e coisas sobre a matéria do curso . </p>
+<h1 aling="center"> Qual meu hobby?</h1>
+<p aling="justify"> Eu gosto de jogar vôlei, ir para a academia, assitir filmes e conversar . </p>
